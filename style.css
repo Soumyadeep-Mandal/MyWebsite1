@@ -1,0 +1,83 @@
+ body {
+   margin: 0;
+   text-align: center;
+   font-family: 'Dancing Script', cursive;
+   font-family: 'Sacramento', cursive;
+   font-family: 'Kanit', sans-serif;
+ }
+
+ h1 {
+   width: auto;
+   line-height: 2;
+   margin: 50px auto 0 auto;
+   font-size: 5.625rem;
+   font-family: 'Sacramento', cursive;
+   color: #66BFBF;
+ }
+
+ h2 {
+   margin-bottom: 0;
+   margin-top: 0;
+   font-size: 2.5rem;
+   font-family: 'Kanit', sans-serif;
+   color: #66BFBF;
+   font-weight: normal;
+ 
+ }
+
+  a {
+   color: #11999E;
+ }
+
+ .footer-link {
+   color: #11999E;
+ }
+
+ .top {
+   padding-top: 100px;
+   position: relative;
+   background-color: #e6fff9;
+ }
+
+ .middle {}
+
+ .bottom {}
+
+ .skill-row {
+   width: 50%;
+   margin: 100px auto 100px auto ;
+   text-align: left;
+   line-height: 2;
+
+ }
+
+ .img1 {
+   position: absolute;
+   top: 30px;
+   right: 300px;
+ }
+
+ .img2 {
+   position: absolute;
+   left: 300px;
+ }
+
+ .img4 {
+   width: 200px;
+   height: 200px;
+ }
+
+ .img5 {
+   width: 25%;
+
+   float: left;
+   margin-right: 30px;
+ }
+
+ .img6 {
+   width: 20%;
+ height: 180px;
+  float: right;
+  margin-right: 30px;
+ }
+
