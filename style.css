@@ -5,6 +5,7 @@
    font-family: 'Sacramento', cursive;
    font-family: 'Kanit', sans-serif;
    padding-bottom: 0%;
+   color: #40514E;
  }
 
  h1 {
@@ -23,8 +24,7 @@
    font-family: 'Kanit', sans-serif;
    color: #66BFBF;
    font-weight: normal;
-   padding-top: 50px;
-   padding-bottom: 50px;
+   padding-bottom: 10px;
  
  }
  h3{
@@ -42,6 +42,7 @@ p{
  margin-bottom: 2rem;
  font-size: 1.25rem;
  padding-bottom: 30px;
+ line-height: 2;
 }
  .footer-link {
    color: #11999E;
@@ -55,8 +56,7 @@ p{
  }
 
  .middle {
-  padding-top: 100px; 
-  padding-bottom: 100px;
+ margin: 100px 0;
  }
 
  .bottom {
@@ -75,19 +75,24 @@ p{
    padding-top: 0%;
 
  }
+ .intro{
+  width: 30%;
+  margin: auto;
+ 
+ }
 
  .img1 {
   width: 12.5rem;
    position: absolute;
-   top: 1.875rem;
-   right: 18.75rem;
+   top: 40px;
+   right: 300px;
  }
 
  .img2 {
  
   width: 12.5rem;
    position: absolute;
-   left: 18.75rem;
+   left: 250px;
  }
 
  .img4 {
@@ -107,6 +112,10 @@ p{
  height: 180px;
   float: right;
   margin-right: 30px;
+ }
+ .if-you{
+  width: 30%;
+  margin: auto;
  }
  hr{
   border: none;
@@ -143,5 +152,3 @@ p{
 .end-foot{
   color: #EAF6F6;
 }
-
-
